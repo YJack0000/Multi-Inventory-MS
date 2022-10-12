@@ -3,7 +3,7 @@
 本人也會不定期更新～
 
 ## 影片
-![](https://www.youtube.com/watch?v=vGTLcxNC0tk)
+[Demo](https://www.youtube.com/watch?v=vGTLcxNC0tk)
 
 ## Project setup
 ```
