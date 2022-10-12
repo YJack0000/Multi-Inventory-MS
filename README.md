@@ -2,6 +2,9 @@
 還有蠻多錯誤等著修正，有興趣的可以發 PR。
 本人也會不定期更新～
 
+## 影片
+![](https://www.youtube.com/watch?v=vGTLcxNC0tk)
+
 ## Project setup
 ```
 npm install
